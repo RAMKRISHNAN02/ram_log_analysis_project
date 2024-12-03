@@ -20,7 +20,7 @@ The script provides the following functionalities:
    - Flags IP addresses exceeding a configurable threshold for failed login attempts (default: 10).  
 
 4. **Save Results to CSV**  
-   - Outputs the results to a file named `log_analysis_results.csv` for easy reference and sharing.  
+   - Outputs the results to a file named `log_analysis_results.csv` .  
 
 ---
 
